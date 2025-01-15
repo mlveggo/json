@@ -1,6 +1,6 @@
 # Json Writer for C++
 
-# Just add json.h and then compose your Json file using a very crude but simple api.
+### Just add json.h and then compose your Json file using a very crude but simple api.
 
 ```
 #include <json.h>
